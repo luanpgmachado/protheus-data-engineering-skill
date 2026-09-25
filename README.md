@@ -2,13 +2,13 @@
 
 Skill para engenharia de dados e BI sobre o banco TOTVS Protheus: Power BI, Power Query/M, SQL, modelagem, dicionário SX e relações entre tabelas.
 
-## Instalação global no Codex
+## Instalação global no Codex e Claude Code
 
 ```powershell
-npx --yes skills add luanpgmachado/protheus-data-engineering-skill --skill protheus-data-engineering --agent codex --global --copy --yes
+npx --yes skills add luanpgmachado/protheus-data-engineering-skill --skill protheus-data-engineering --agent codex claude-code --global --copy --yes
 ```
 
-Reinicie ou inicie um novo turno do Codex após a instalação.
+Abra um novo turno do Codex e uma nova sessão do Claude Code após a instalação.
 
 ## Estrutura
 
